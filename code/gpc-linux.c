@@ -14,6 +14,6 @@ void RunCommand(const char *exec) {
 }
 
 int main(void) {
-	RunCommand("echo Hello World");
+	
 	return 0;
 }
